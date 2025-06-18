@@ -29,7 +29,7 @@
         {"name": "PCB Design", "icon": "fas fa-project-diagram", "level": 85},
         {"name": "Project Management", "icon": "fas fa-list-check", "level": 90},
 	{"name": "Problem Solving", "icon": "fas fa-lightbulb", "level": 85},
-        {"name": "Teamwork", "icon": "fas fa-users", "level": 90},
+        {"name": "Teamwork", "icon": "fas fa-users", "level": 90}
 	
     ]
 }
