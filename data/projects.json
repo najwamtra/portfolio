@@ -5,18 +5,18 @@
         "partner": "Ruang Industri Indonesia",
         "role": "Engineering Intern",
         "description": "Contributed to the development of an ASRS (Automated Storage and Retrieval System) system with the team to automate the storage and retrieval process.",
-        "image": "images/projectasrs.jpg"
+        "image": "images/project-asrs.jpg"
     },
     {
         "title": "IoT-based Temperature Monitoring Device",
         "year": "2023",
         "description": "Participate in a group project to develop an IoT-based temperature monitoring tool.",
-        "image": "images/projectIoT.jpg"
+        "image": "images/project-iot.jpg"
     },
 	{
         "title": "Voltage Reducing Device",
         "year": "2023",
         "description": "Participate in a group project to develop a voltage reducing device.",
-        "image": "images/projectthree.jpg"
+        "image": "images/project-three.jpg"
     }
 ]
