@@ -2,7 +2,7 @@
     {
         "university": "Politeknik Negeri Semarang",
 		"logo": "images/polines-logo.png",
-        "major": "Electrical Engineering",
+        "major": "Diploma in Electrical Engineering",
         "year": "2022 - 2025",
         "description": "Kitano Foundation Education Scholarship 2023"
     },
@@ -11,7 +11,7 @@
 	"logo": "images/sma15-logo.jpg",
         "major": "Department of Mathematics and Natural Sciences",
         "year": "2019 - 2022",
-        "description": "-"
+        "description": "null"
     }
    
 ]
